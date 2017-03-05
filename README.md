@@ -1,6 +1,6 @@
 # parseMarkdownToHtml-demo
 
-1. gcl github地址
+1. `gcl github地址`
  
 1. `cd parseMarkdownToHtml-demo`
 
